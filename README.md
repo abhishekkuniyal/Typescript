@@ -1,5 +1,5 @@
 # Typescript
-Daily Type-script learning 
+Daily Type-script learning uploading...
 <div>Source:- 
   <h1 align="center">
   <a href="https://www.youtube.com/playlist?list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC">
