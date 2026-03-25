@@ -39,5 +39,25 @@ Daily Type-script learning
 
 
 
+<p>
+#Type anotation and inference
+       
+    Type anotation means giving a dataype to a variable.
+    Infernce means passing a another data type to a variable which is already declared.
+   
+</p>
+
+
+<p>
+#Union and Any
+  
+      Union means passing multiple value to a single variable:-
+           1. let data:string | number = "data"
+           2. let apiRequest : 'pending' | 'sucess'| 'error' = 'pending'
+           these values will work as suggestions.
+     Any means passing any value to a variable:-
+           1. let data : string | undefined 
+          it may be undefined or any value
+</p>
 
 </div>
